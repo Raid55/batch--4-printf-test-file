@@ -23,7 +23,7 @@ int main(void)
 	printf("%i, %d\n", number, number);
 
 	/*---- Test cases for strings ----*/
-	str = "Holberton"
+	str = "Holberton";
 	_printf("%s school\n", str); /* output: Holberton school*/
 	printf("%s school\n", str);
 	/*---- Test cases for NULL -----*/
