@@ -11,4 +11,5 @@ Main files to add and share your test cases for printf project
 + Create a pull request.
 + Dont forget to comment what the test does and what the output is supposed to be like.
 + For comparison add the real printf output.
++ Don't forget to pull before you push your changes!
 
